@@ -76,5 +76,5 @@ The output to this file is also included in this directory, although not require
 The name and contents of the project files included in this directory are as follows:
 * `README.md` - This file that describes the project, input data, and methodology
 * `run_analysis.R` - The R script used to produce the tidy data set of feature averages for each subject by activity
-* `projectCodebook.md` - A description of the data inputs to the function in run_analysis.R and description of the data set represented in subjectByActivityFeatureMeans.txt.
+* `projectCodebook.md` - A description of the data inputs to the function in run_analysis.R and description of the data set represented in `subjectByActivityFeatureMeans.txt`.
 * `subjectByActivityFeatureMeans.txt` - the tidy data set of feature averages for each subject by activity output from run_analysis.R. Each row represnts feature averages for the trials in which a specific subject performs one of six activities.
