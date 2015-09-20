@@ -60,11 +60,11 @@ The data required to construct the desired dataset for this project is distrubut
 For a detailed description of the data represented in each file, please refer to projectCodebook.md in this directory.
 
 A data table was contsructed separately for the test and train data as follows:
-1. Read in the subject ID into the first column
-2. Read in the activity (converted to a string factor) into the second column
-3. Set the trial factor ('TEST' or 'TRAIN') in the third column - note that this column is not used for any functions of this project, but may be useful to have in the dataset for future analysis
-4. Read in the list of features and select the columns that correspond to the mean() and std() values that we are interested in
-5. Read in the trial data, select the 66 columns applicable to this project, and set these as columns 4 through 69.
+* Read in the subject ID into the first column
+* Read in the activity (converted to a string factor) into the second column
+* Set the trial factor ('TEST' or 'TRAIN') in the third column - note that this column is not used for any functions of this project, but may be useful to have in the dataset for future analysis
+* Read in the list of features and select the columns that correspond to the mean() and std() values that we are interested in
+* Read in the trial data, select the 66 columns applicable to this project, and set these as columns 4 through 69.
 
 These two tables were combined (using rbind) to produce one data table containing test and train data for all activity trials for all subjects. This table was then converted to a data frame table so that dplyr function could be used. Specifically, data subsets were selected (using select), then the subset was grouped by activity to comptute the activity average for each feature for each subject. The result of each subject subset was added to a data table, which is written to a file called "subjectByActivityFeatureMeans.txt" once complete. The output to this file is also included in this directory, although not required as part of the project.
 
