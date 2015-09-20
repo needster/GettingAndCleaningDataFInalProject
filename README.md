@@ -19,26 +19,26 @@ The dataset provided comes from the Smartphone-Based Recognition of Human Activi
 
 The dataset for the project can be obtained at: <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>.
 
-The dataset provides data resulting from a series of experiments in which one of 30 subjects performed one of six activites while wearing a smartphone on the waist. The experiments were divided into 'train' and 'test' trials such that 70% of the subjects participated in train trials and 30% in test trials. The data for train and test trials are reported in separate files. The experimenters observed and recorded accelerometer and gyroscope signals from the smartphone for the X, Y and Z axis for each trial.
+The dataset provides data resulting from a series of experiments in which one of 30 subjects performed one of 6 activites while wearing a smartphone on the waist. The experiments were divided into 'train' and 'test' trials such that 70% of the subjects participated in train trials and 30% in test trials. The data for train and test trials are reported in separate files. The experimenters observed and recorded accelerometer and gyroscope signals from the smartphone for the X, Y and Z axis for each trial.
 
 These raw signals were then used to estimate value for the following for each trial:
-Time domain - Body acceleration signal (for each axis)
-Time domain - Gravity acceleration signal (for each axis)
-Time domain - Body acceleration jerk signal (for each axis)
-Time domain - Body gyroscope signal (for each axis)
-Time domain - Body gyroscope jerk signal (for each axis)
-Time domain - Body acceleration magnitude
-Time domain - Gravity acceleration magnitude
-Time domain - Body acceleration jerk magnitude
-Time domain - Body gyroscope magnitude
-Time domain - Body gyroscope jerk magnitude
-Frequency domain - Body acceleration signal (for each axis)
-Frequency domain - Body acceleration jerk signal (for each axis)
-Frequency domain - Body gyroscope signal (for each axis)
-Frequency domain - Body acceleration magnitude
-Frequency domain - Body acceleration jerk magnitude
-Frequency domain - Body gyroscope magnitude
-Frequency domain - Body gyroscope jerk magnitude
+* Time domain - Body acceleration signal (for each axis)
+* Time domain - Gravity acceleration signal (for each axis)
+* Time domain - Body acceleration jerk signal (for each axis)
+* Time domain - Body gyroscope signal (for each axis)
+* Time domain - Body gyroscope jerk signal (for each axis)
+* Time domain - Body acceleration magnitude
+* Time domain - Gravity acceleration magnitude
+* Time domain - Body acceleration jerk magnitude
+* Time domain - Body gyroscope magnitude
+* Time domain - Body gyroscope jerk magnitude
+* Frequency domain - Body acceleration signal (for each axis)
+* Frequency domain - Body acceleration jerk signal (for each axis)
+* Frequency domain - Body gyroscope signal (for each axis)
+* Frequency domain - Body acceleration magnitude
+* Frequency domain - Body acceleration jerk magnitude
+* Frequency domain - Body gyroscope magnitude
+* Frequency domain - Body gyroscope jerk magnitude
 
 Note that in total, there are 33 values estimated.
 
