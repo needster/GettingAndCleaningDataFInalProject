@@ -1,4 +1,4 @@
-# GCD Project Dataset
+# Getting and Cleaning Data Final Project
 This file describes the various files contained within this directory, which were generated toward the completion of the final course project for Getting and Cleaning Data, which is a MOOC offered by Johns Hopkins University through Coursera.
 
 ### Project Overview
