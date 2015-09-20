@@ -66,7 +66,9 @@ A data table was contsructed separately for the test and train data as follows:
 * Read in the list of features and select the columns that correspond to the mean() and std() values that we are interested in
 * Read in the trial data, select the 66 columns applicable to this project, and set these as columns 4 through 69.
 
-These two tables were combined (using rbind) to produce one data table containing test and train data for all activity trials for all subjects. This table was then converted to a data frame table so that dplyr function could be used. Specifically, data subsets were selected (using select), then the subset was grouped by activity to comptute the activity average for each feature for each subject. The result of each subject subset was added to a data table, which is written to a file called "subjectByActivityFeatureMeans.txt" once complete. The output to this file is also included in this directory, although not required as part of the project.
+These two tables were combined (using `rbind()`) to produce one data table containing test and train data for all activity trials for all subjects. This table was then converted to a data frame table so that dplyr functions could be used. Specifically, data subsets were `select()` -ed, then the subset was `group_by()` activity to comptute the activity average for each feature for each subject. The result of each subject subset was added to a data table, which is written to a file called 'subjectByActivityFeatureMeans.txt' once complete. 
+
+The output to this file is also included in this directory, although not required as part of the project.
 
 
 ### Project Files
