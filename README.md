@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Final Project
-This file describes the various files contained within this directory, which were generated toward the completion of the final course project for Getting and Cleaning Data, which is a MOOC offered by Johns Hopkins University through Coursera.
+This file describes the project, input data, and various files contained within this directory, which were generated toward the completion of the final course project for Getting and Cleaning Data, which is a MOOC offered by Johns Hopkins University through Coursera.
 
 ### Project Overview
 From the project description: "The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis."
