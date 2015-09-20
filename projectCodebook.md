@@ -1,26 +1,27 @@
 # Project Codebook
 This file describes the format and values of the data sets for the following:
 * input data used by the run_analysis function
-* tidy data set produced by the run_analysis function
+* resulting tidy data set produced by the run_analysis function
 
 
 ## Input data
 
 The following files from the Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set are used by the run_analysis function.
 
-## activity_labels.txt
+### activity_labels.txt
 Contains a mapping of the 6 activities perfomed by the subjects.
+
 Cases: 6                       
 Record Length: 2
 
-| NAME  | POSITION  |  VARIABLE | VALUES OR EXPLANATION  |
+| NAME  | POSITION  |  DESCRIPTION | VALUES OR EXPLANATION  |
 |---|---|---|---|
 | V1  | 1  | Activity ID  | Numeric values 1 - 6  |
 | V2  | 2  | Activity description  | WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING |
                                                 
                                                 
 
-## activity_labels.txt
+### activity_labels.txt
 
 
 * features.txt - contains the names of the 561 features reported for each trial
