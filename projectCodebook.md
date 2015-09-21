@@ -114,66 +114,68 @@ Record Length: 68
 | subject | 1 | Subject ID | Numeric values: 1 - 30.|
 | activity | 2 | Activity | Character string in {WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING}|
 | tBodyAccmeanX | 3 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 4 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 5 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 6 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 7 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 8 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 9 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 10 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 11 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 12 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 13 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 14 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 15 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 16 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 17 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 18 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 19 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 20 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 21 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 22 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 23 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 24 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 25 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 26 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 27 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 28 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 29 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 30 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 31 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 32 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 33 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 34 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 35 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 36 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 37 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 38 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 39 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 40 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 41 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 42 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 43 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 44 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 45 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 46 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 47 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 48 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 49 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 50 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 51 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 52 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 53 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 54 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 55 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 56 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 57 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 58 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 59 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 60 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 61 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 62 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 63 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 64 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 65 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
-| tBodyAccmeanX | 66 | Average of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccmeanY | 4 | Average of values for the Time domain - Body acceleration signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccmeanZ | 5 | Average of values for the Time domain - Body acceleration signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccmeanX | 6 | Average of values for the Time domain - Gravity acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccmeanY | 7 | Average of values for the Time domain - Gravity acceleration signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccmeanZ | 8 | Average of values for the Time domain - Gravity acceleration signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkmeanX | 9 | Average of values for the Time domain - Body acceleration jerk signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkmeanY | 10 | Average of values for the Time domain - Body acceleration jerk signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkmeanZ | 11 | Average of values for the Time domain - Body acceleration jerk signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyromeanX | 12 | Average of values for the Time domain - Body gyroscope signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyromeanY | 13 | Average of values for the Time domain - Body gyroscope signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyromeanZ | 14 | Average of values for the Time domain - Body gyroscope signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkmeanX | 15 | Average of values for the Time domain - Body gyroscope jerk signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkmeanY | 16 | Average of values for the Time domain - Body gyroscope jerk signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkmeanZ | 17 | Average of values for the Time domain - Body gyroscope jerk signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccMagmean | 18 | Average of values for the Time domain - Body acceleration magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccMagmean | 19 | Average of values for the Time domain - Gravity acceleration magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkMagmean | 20 | Average of values for the Time domain - Body acceleration jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroMagmean | 21 | Average of values for the Time domain - Body gyroscope magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkMagmean | 22 | Average of values for the Time domain - Body gyroscope jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccmeanX | 23 | Average of values for the Frequency domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccmeanY | 24 | Average of values for the Frequency domain - Body acceleration signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccmeanZ | 25 | Average of values for the Frequency domain - Body acceleration signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccJerkmeanX | 26 | Average of values for the Frequency domain - Body acceleration jerk signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccJerkmeanY | 27 | Average of values for the Frequency domain - Body acceleration jerk signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccJerkmeanZ | 28 | Average of values for the Frequency domain - Body acceleration jerk signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyGyromeanX | 29 | Average of values for the Frequency domain - Body gyroscope signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyGyromeanY | 30 | Average of values for the Frequency domain - Body gyroscope signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyGyromeanZ | 31 | Average of values for the Frequency domain - Body gyroscope signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccMagmean | 32 | Average of values for the Frequency domain - Body acceleration magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyBodyAccJerkMagmean | 33 | Average of values for the Frequency domain - Body acceleration jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyBodyGyroMagmean | 34 | Average of values for the Frequency domain - Body gyroscope magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyBodyGyroJerkMagmean | 35 | Average of values for the Frequency domain - Body gyroscope jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccstdX | 36 | Standard deviation of values for the Time domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccstdY | 37 | Standard deviation of values for the Time domain - Body acceleration signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccstdZ | 38 | Standard deviation of values for the Time domain - Body acceleration signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccstdX | 39 | Standard deviation of values for the Time domain - Gravity acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccstdY | 40 | Standard deviation of values for the Time domain - Gravity acceleration signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccstdZ | 41 | Standard deviation of values for the Time domain - Gravity acceleration signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkstdX | 42 | Standard deviation of values for the Time domain - Body acceleration jerk signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkstdY | 43 | Standard deviation of values for the Time domain - Body acceleration jerk signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkstdZ | 44 | Standard deviation of values for the Time domain - Body acceleration jerk signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyrostdX | 45 | Standard deviation of values for the Time domain - Body gyroscope signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyrostdY | 46 | Standard deviation of values for the Time domain - Body gyroscope signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyrostdZ | 47 | Standard deviation of values for the Time domain - Body gyroscope signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkstdX | 48 | Standard deviation of values for the Time domain - Body gyroscope jerk signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkstdY | 49 | Standard deviation of values for the Time domain - Body gyroscope jerk signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkstdZ | 50 | Standard deviation of values for the Time domain - Body gyroscope jerk signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccMagstd | 51 | Standard deviation of values for the Time domain - Body acceleration magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tGravityAccMagstd | 52 | Standard deviation of values for the Time domain - Gravity acceleration magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyAccJerkMagstd | 53 | Standard deviation of values for the Time domain - Body acceleration jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroMagstd | 54 | Standard deviation of values for the Time domain - Body gyroscope magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| tBodyGyroJerkMagstd | 55 | Standard deviation of values for the Time domain - Body gyroscope jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccstdX | 56 | Standard deviation of values for the Frequency domain - Body acceleration signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccstdY | 57 | Standard deviation of values for the Frequency domain - Body acceleration signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccstdZ | 58 | Standard deviation of values for the Frequency domain - Body acceleration signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccJerkstdX | 59 | Standard deviation of values for the Frequency domain - Body acceleration jerk signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccJerkstdY | 60 | Standard deviation of values for the Frequency domain - Body acceleration jerk signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccJerkstdZ | 61 | Standard deviation of values for the Frequency domain - Body acceleration jerk signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyGyrostdX | 62 | Standard deviation of values for the Frequency domain - Body gyroscope signal in the X axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyGyrostdY | 63 | Standard deviation of values for the Frequency domain - Body gyroscope signal in the Y axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyGyrostdZ | 64 | Standard deviation of values for the Frequency domain - Body gyroscope signal in the Z axis feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyAccMagstd | 65 | Standard deviation of values for the Frequency domain - Body acceleration magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyBodyAccJerkMagstd | 66 | Standard deviation of values for the Frequency domain - Body acceleration jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyBodyGyroMagstd | 67 | Standard deviation of values for the Frequency domain - Body gyroscope magnitude feature for this subject and activity| Numeric values in [-1,1]. |
+| fBodyBodyGyroJerkMagstd | 68 | of values for the Frequency domain - Body gyroscope jerk magnitude feature for this subject and activity| Numeric values in [-1,1]. | 
